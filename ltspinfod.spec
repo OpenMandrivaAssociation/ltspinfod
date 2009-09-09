@@ -1,7 +1,7 @@
 Summary:	Tool to get info on LTSP terminals
 Name:		ltspinfod
 Version:	0.1
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL
 Group:		System/Servers
 URL:		http://www.ltsp.org
